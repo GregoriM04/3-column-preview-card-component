@@ -34,7 +34,7 @@ Here you can see a screenshot of the final result.
 ### Links
 
 - Repository URL: [Click here to check it out](https://github.com/GregoriM04/3-column-preview-card-component.git)
-- Live Site URL: [Click here to check it out](https://)
+- Live Site URL: [Click here to check it out](https://gregorim04.github.io/3-column-preview-card-component/)
 
 ## My process
 
